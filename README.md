@@ -1,5 +1,7 @@
 # Lead Scoring: From Business Understanding to ML modeling with pandas and Scikit-Learn!
 
+Take a look at the project: https://nbviewer.org/github/CeloCruz/LeadScoring/blob/main/Lead_Scoring_Final.ipynb
+
 ## Project Overview
 **Objective:** To build an efficient lead scoring model for X Education that identifies potential leads with higher conversion chances.
 
