@@ -23,12 +23,13 @@ The core objective of this project was to surpass an 80% conversion rate for X E
   * Data Analysis
   * Exploratory Analysis
   * Data Transformation for relevant insights
+  * Data Visualization
   * Data Preprocessing
   * Data Wrangling
   * Feature Engineering
   * Data Engineering.
-  * Data Visualization
-  * Machine Learning
+  * Machine Learning.
+  * Fine-Tuning Machine Learning models. 
   * Evaluation and selecting performance metrics.
   * Communication and Presentation: Effective Communication of Results to Non-Technical Audiences
 
