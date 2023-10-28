@@ -5,7 +5,7 @@ Take a look at the project: https://nbviewer.org/github/CeloCruz/LeadScoring/blo
 ## Project Overview
 **Objective:** To build an efficient lead scoring model for X Education that identifies potential leads with higher conversion chances.
 
-**Description:** Lead scoring plays a critical role in optimizing lead conversion rates. In this project, we focus on developing a robust lead scoring model tailored for X Education. The key aspects of this project are as follows:
+**Description:** Lead scoring plays a critical role in optimizing lead conversion rates. In this project, we focus on developing a robust lead-scoring model tailored for X Education. The key aspects of this project are as follows:
 
 **Data Exploration:** We embark on a comprehensive exploration of the dataset, gaining insights into customer attributes and the distribution of lead conversions and non-conversions.
 
@@ -20,12 +20,27 @@ Take a look at the project: https://nbviewer.org/github/CeloCruz/LeadScoring/blo
 
 * Datasets: You can access the datasets used for this analysis in the 'data' directory. Both the training and evaluation datasets are provided for transparency.
 
-## Getting Started
-1. Clone this repository to your local machine using git clone.
+## Skills and tools used
 
-2. Explore the Jupyter notebooks to delve into the data preprocessing, model training, and evaluation processes.
+* Principal Libraries: Pandas, Numpy, Scikit-Learn.
+* Data Visualization: Matplotlib, Seaborn, Plotly.
+* Classification models: Support Vector Classifier, Logistic Regression, Random Forest, Gradient Boost.
+* Organization: Notion.
+* Methodology: CRISP-DM.
 
-3. Feel free to reach out if you have any questions or suggestions. Collaboration and feedback are warmly welcomed.
+* Skills required in the project:
+  * Business Understanding
+  * Critical Thinking & Problem Solving
+  * Data Analysis
+  * Exploratory Analysis
+  * Data Transformation for relevant insights
+  * Data Preprocessing
+  * Data Wrangling
+  * Feature Engineering
+  * Data Visualization
+  * Machine Learning
+  * Evaluation and selecting performance metrics.
+  * Communication and Presentation: Effective Communication of Results to Non-Technical Audiences
 
 ## Conclusion
 In conclusion, this project underscores the significance of an efficient lead scoring model in enhancing lead conversion rates for X Education. By leveraging machine learning techniques, we can proactively identify leads with high conversion potential, thereby optimizing the efforts of the sales team and reducing operational costs.
